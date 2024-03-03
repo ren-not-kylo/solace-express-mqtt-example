@@ -1,7 +1,7 @@
 export default {
-    host: 'wss://mr-connection-3dyjq6jkwhj.messaging.solace.cloud:8443',
+    host: 'ssl://mr-connection-bcsw6c3mi2o.messaging.solace.cloud:8883',
     username: 'solace-cloud-client',
-    password: '1s5pq12lnp0i97lpajtbk44fpp',
+    password: 'tf8b0c0j0ilfvkbojsatvbjdk6',
     clientId: 'myUniqueClientId',
     keepalive: 10,
     protocolId: 'MQTT',
